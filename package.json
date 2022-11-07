@@ -1,0 +1,15 @@
+{
+	"name": "my_programs",
+	"version": "1.0.0",
+	"description": "A repository of simple everyday calcualations",
+	"main": "app.js",
+	"scripts": {
+		"start": "node app.js",
+		"test": "node test.js"
+	},
+	"author": "John Q.",
+	"license": "MIT",
+	"dependencies": {
+		"prompt": "^1.2.1"
+	}
+}
